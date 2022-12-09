@@ -189,7 +189,7 @@ footer {
 
   .hero_image {
     display: flex;
-    border-radius: 15px
+    border-radius: 15px;
     justify-content: center;
   }
   .hero_image img {
